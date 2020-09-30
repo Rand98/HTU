@@ -129,9 +129,7 @@ if(isset($_POST['addtocart'])){
 					
 							</li>
 
-							<li>
-								<a href="blog.php">Blog</a>
-							</li>
+							
 
 							<li>
 								<a href="about.php">About</a>
@@ -245,9 +243,7 @@ if(isset($_POST['addtocart'])){
 					<a href="feature.php" class="label1 rs1" data-label1="hot">Features</a>
 				</li>
 
-				<li>
-					<a href="blog.php">Blog</a>
-				</li>
+				
 
 				<li>
 					<a href="about.php">About</a>
